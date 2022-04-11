@@ -1,7 +1,7 @@
 - 👋 Hi, I’m iMorning.
 - 👀 I’m interested in program!Include Android/Java/C++...
-- 🌱 I’m currently learning flutter and mfc.
-- 💞️ I’m looking to work for program,just like what I'm learning.
+- 🌱 I’m currently learning flutter and data structure.
+- 💞️ I’m looking to work for program, just like what I'm learning.
 - 📫 Contact me by admin@catcompany.cn.
 
 <!---
